@@ -23,6 +23,6 @@ Project for ARKO (Computer Architecture) course at Warsaw University of Technolo
     img:		.space 	<size_of_file>			# size of file
 ```
 ```mips
-    li          $a2, <size_of_file>				# size of file
+    li              $a2, <size_of_file>				# size of file
 ```
 - Assemble code
